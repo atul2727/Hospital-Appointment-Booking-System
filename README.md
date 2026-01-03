@@ -129,9 +129,3 @@ Hospital-Appointment-Booking-System
 - Scalable & production-ready design
 
 ---
-
-## 👨‍💻 Author
-
-**Atul Kumar Janghu**  
-Computer Science Undergraduate  
-Passionate about backend systems & microservices
